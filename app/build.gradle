@@ -29,6 +29,7 @@ dependencies {
 
     /*rx-android-java*/
     compile 'io.reactivex:rxjava:+'
+    compile 'io.reactivex:rxandroid:+'
 
     /*rotrofit*/
     compile 'com.squareup.retrofit2:retrofit:2.1.0'
